@@ -17,7 +17,7 @@ They reduce the boilerplate around promises, and the "don't break the chain" lim
 
 When Promises were introduced in ES2015, they were meant to solve a problem with asynchronous code, and they did, but over the 2 years that separated ES2015 and ES2017, it was clear that _promises could not be the final solution_.
 
-Promises were introduced to solve the famous _callback hell_ problem, but they introduced complexity on their own, and syntax complexity.
+Promises were introduced to solve the famous _callback hell_ problem, but they introduced programatic complexity of their own, in addition to being syntactically complicated.
 
 They were good primitives around which a better syntax could be exposed to the developers, so when the time was right we got **async functions**.
 
